@@ -24,7 +24,7 @@ def AzureAccessToken():
   password = 'StabStab123$'
   #authority = 'https://login.microsoftonline.com/ID secret client'
  
-  authority = 'https://login.microsoftonline.com/ObJ8Q~WoJnVNeNKUCbWU.cYhxGCDfeAdFNQHicVd'
+  authority = 'https://login.microsoftonline.com/f6e35595-bd07-4026-a718-655c09447a8e'
   resource = 'https://analysis.windows.net/powerbi/api'
   clientId = '6f6fad54-bf05-4ea6-9bf6-b5fe29cd01b2'
  
